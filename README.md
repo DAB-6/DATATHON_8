@@ -65,225 +65,6 @@
 ---
 ## 4. 분석 방법론
 
-- **기술통계 분석**
-    
-    ![image.png](attachment:b20bbfce-1344-4923-9f92-64206f784aa1:image.png)
-    
-    ![image.png](attachment:31be7b33-f80b-4c1d-bc01-4a9f7e8a3270:image.png)
-    
-    ![image.png](attachment:0ab83b4a-99fc-40e4-869b-be53e22ef6d5:image.png)
-    
-- **탐색적 분석 (EDA)**
-    - Items 가격
-        
-        ![image.png](attachment:e5674d14-5b9b-4f08-89e5-8bcc99df372e:image.png)
-        
-    - 일간, 주간,시간 시각화
-        
-        ![image.png](attachment:ef9138de-79d1-4ddc-8c5a-3eec5d1da2af:image.png)
-        
-        ![image.png](attachment:a75e6401-6bf1-43d4-88d2-69b2d0f584dd:image.png)
-        
-    - 이벤트 유형별 발생 횟수
-        
-        ![image.png](attachment:f88ede2a-098a-4ee3-83a3-61a1f25578dd:image.png)
-        
-    - 전체 가격 분포
-        
-        ![image.png](attachment:a9dc3791-38b9-44e3-a0eb-44f04f0c87cc:image.png)
-        
-    - 카테고리별 가격 분포
-        
-        ![image.png](attachment:efcf418a-13a1-469e-a368-32eb04aa7d6d:image.png)
-        
-    - 날짜별 ltv평균값
-        
-        ![image.png](attachment:28414f97-dac7-4ef4-8a7a-e37741381ff7:image.png)
-        
-    - 요일별 디바이스 이벤트카운트
-        
-        ![image.png](attachment:3234667b-2f5b-4a46-b5dc-d5f19583aa1b:image.png)
-        
-    - 기기별 행동 차이
-        
-        ![image.png](attachment:4fbdbcdc-38b0-4a30-8d2e-deab00c2535d:image.png)
-        
-    - 기기별 행동 비율
-        
-        ![image.png](attachment:03e38824-1c61-4984-bac4-b1e366ff450a:image.png)
-        
-    - 세션당 구매건수 분포
-        
-        ![image.png](attachment:ec62518c-2359-4a40-aaf4-3d21fe6b72d9:image.png)
-        
-        ![image.png](attachment:04272e74-0f53-439c-b134-d50790945812:image.png)
-        
-    - 날짜별 이벤트 유형 발생 횟수 추이
-        
-        ![image.png](attachment:c18c8bf6-1ede-41db-af8e-1c6d56ce40af:image.png)
-        
-    - 전환률
-        
-        ![image.png](attachment:9ae240e4-2241-426c-ae59-6fccaef83114:image.png)
-        
-    - 시간대별 · 요일별 사용자 이벤트 발생 패턴
-        
-        ![image.png](attachment:06d21191-6ad9-47ed-95e8-0b9a4389adf6:image.png)
-        
-    - 시간대별 · 요일별 전환률
-        
-        ![image.png](attachment:107019c0-4d98-431d-b5d0-d974343275cf:image.png)
-        
-    - 데스크탑.모바일 사용자 전환률
-        
-        ![image.png](attachment:7e116d3c-a845-47eb-a280-61409245743d:image.png)
-        
-    - type이 ‘purchase’인 유저의 ‘ltv’ 상관관계
-        
-        
-    - 나라별 퍼넬
-        
-        ![image.png](attachment:776fe123-a66a-4855-b4ef-7ca067d4dec0:image.png)
-        
-        ![image.png](attachment:1e8ee57f-6157-4bc1-ac5c-baa0a5dda83a:image.png)
-        
-    - 유저 행동 흐름 Sankey 다이어그램
-        
-        ![image.png](attachment:51f37751-a426-4a56-a3dc-a88f6594798b:image.png)
-        
-    - 국가별 신규 이용자 유입
-        
-        ![image.png](attachment:6031c402-a570-4500-9446-77cce13a6463:image.png)
-        
-    - 국가별 구매건수
-        - 인사이트: 구글 머천샵은 미국 내수 시장에 크게 의존한다. / 미국 외의 국가에 어떻게 대처해야할지 분석해봐야한다.
-        
-        ![image.png](attachment:5be14d5b-975a-43de-a6e3-fc1727c61f3d:image.png)
-        
-        ![image.png](attachment:1f2998b4-397d-4eb3-b1af-902b9d7b5f21:image.png)
-        
-    - 기기별 구매건수
-        - 데스크탑으로 구매한 사람이 가장 많다.
-        
-        ![image.png](attachment:cb08b09b-0542-4a5e-bb78-3245d87a6557:image.png)
-        
-    - **고유 사용자 수**
-        
-        
-        ![download.png](attachment:be3a5005-e84b-4419-ae49-9c4e5381c7ec:download.png)
-        
-        ![download.png](attachment:552ceda3-f7ef-4948-9c72-b41953d10a55:download.png)
-        
-        ![download.png](attachment:3c7f4203-ecc0-4991-96be-ddbee2637827:download.png)
-        
-        ![download.png](attachment:636681bc-aaae-404d-80ca-30a96c30d2a8:download.png)
-        
-        ![download.png](attachment:6340e36d-b927-47fc-93c0-723dd32af14f:download.png)
-        
-    - **세션 정보**
-        
-        ---
-        
-        **인사이트:최대 이벤트 수가 평균값을 크게 끌어올려 중앙값으로 기준을 잡고 분석해야 할 듯 함**
-        
-        |  | **이벤트수** |  |
-        | --- | --- | --- |
-        | **count** | 244240.000000 | # 전체 세션 수 |
-        | **mean** | 21.998211 | # 평균 이벤트 수 |
-        | **std** | 71.077835 |  |
-        | **min** | 1.000000 |  |
-        | **25%** | 4.000000 |  |
-        | **50%** | 5.000000 |  # 중앙값 |
-        | **75%** | 11.000000 |  |
-        | **max** | 3170.000000 |   # 최대 이벤트 수 |
-        
-        |  | **0** |
-        | --- | --- |
-        | **전체 세션 수** | 244240.0000 |
-        | **1개 이벤트 세션 비율** | 0.0017 |
-        | **2~5개 이벤트 세션 비율** | 0.5265 |
-        | **6~10개 이벤트 세션 비율** | 0.2215 |
-        | **10개 초과 세션 비율** | 0.2503 |
-        | **최대 이벤트 수** | 3170.0000 |
-        
-        ### ✅ 3. 해석 포인트 (수치 기반)
-        
-        | 구간 | 의미 | 해석 |
-        | --- | --- | --- |
-        | 1개 이벤트 세션 | 유입 후 즉시 이탈 | 전체의 70% 이상이면 **세션 정의 혹은 UX 문제** 가능성 |
-        | 2~5개 이벤트 세션 | 짧은 체류 | 정상 탐색 행동으로 해석 가능 |
-        | 10개 초과 | 비정상적 행동 (스크립트/자동화/로깅 오류 등) | 비율이 2% 이상이면 추가 확인 필요 |
-        
-        ![download.png](attachment:ade9f4cb-1117-4a1d-a85e-fcc7d318508b:download.png)
-        
-    - 세션당 행동 횟수
-        
-        **인사이트:1은 바로 사라진거 같으니 2-10부분 하나 11~51+로 나눠서 봐야 할듯함**
-        
-        ![download.png](attachment:7d888386-0bda-41b3-8924-600fdc02ae4e:download.png)
-        
-        ![download.png](attachment:75909f53-d8c7-4ded-a7d2-373d24743948:download.png)
-        
-    - **유입유형 × 대륙 매트릭스**
-        
-        **인사이트: 유입은 어느대륙이든 organic이 압도적으로 유형이 많다
-        추가로 해야할것: 시간대 기준으로 묶여서 다시 대륙으로 묶어서 결과 내야함**
-        
-        ![download.png](attachment:b1c8cab8-63ad-41d4-a0f9-571e41bc1e80:download.png)
-        
-        ![download.png](attachment:93051ae0-aafe-40e9-b541-becac29cc056:download.png)
-        
-    - 국가별 장바구니 → 구매 전환률
-        - 인사이트: 장바구니 → 구매 전환률은 의외로 미국이 아니다.
-        
-        ![image.png](attachment:c316abbc-0a39-4eee-800f-8be7edc614aa:image.png)
-        
-    - 유입출처별 사용자 수
-        
-        ![image.png](attachment:9eab6447-69ea-4442-a92a-917b4f7ff64b:image.png)
-        
-        ![image.png](attachment:b7cabd03-2522-49bf-89ff-97b130c286cc:image.png)
-        
-    - **각 국가 현지시간 기준 이용 peak 시간대**
-        
-        ![download.png](attachment:0c35e37d-1a42-473f-862f-c1f268f1493e:download.png)
-        
-    - 시간대별 이벤트 발생 패턴(현지시간)
-        
-        **인사이트: 비활동 시간대 13시** 부근 급감 → 마케팅, 이벤트 배너 노출 비효율 구간.
-        추가로 해야할것: 국가별로 쪼개서 보기 
-        
-        ![download.png](attachment:464f2dc0-41e3-49d8-84b9-4167837d19f0:download.png)
-        
-    - 유입유형별 구매건수
-        - 인사이트: 검색엔진에서 검색해서 유입되서 구매된 건수가 가장 많다.  하지만 다른 웹사이트의 링크타고 들어온 경우도 무시할 수 없으니 블로그나 커뮤니티등에 적극적으로 홍보를 하면 괜찮지 않을까?
-        
-        ![image.png](attachment:ef65a3ef-928c-476f-8648-05b7496e9cbb:image.png)
-        
-        ![image.png](attachment:2ce0c6f3-d19f-4fb4-9343-a176382c2467:image.png)
-        
-        - **organic**
-            
-            **검색엔진(구글/네이버/빙 등) 결과**를 통해 유입
-            
-        - **referral**
-            
-            검색엔진이 아닌 **다른 웹사이트의 링크**(블로그, 커뮤니티, 파트너사 등)를 타고 들어온 유입
-            
-        - **cpc**
-            
-            **유료 검색광고**(클릭당 과금)로 유입
-            
-        - **<Other>**
-        1. **리포트 카디널리티(고유값 수) 한도 초과**로 롤업되어 “(Other)”로 묶여 보이는 경우
-        2. **기본 채널 규칙에 맞지 않는 소스/매체**가 묶여 보이는 경우
-        
-    - 사용자별 장바구니(add_to_cart) 추가 횟수 분포(한승헌)
-        
-        ![download.png](attachment:65b12a23-e8d4-43cd-87ce-4ca8f50878f0:download.png)
-        
-        - 회사 굿즈 다량 판매의 경우일 경우가 많이 나타날 것으로 봄
-        - 시계열 적용하기
 - **가설 설정**
     - **1순위 : 방문하기 -> 상품보기**
         
@@ -318,21 +99,10 @@
     | LightGBM | 0.7605 | 0.8568 |
     | Random Forest | 0.7658 | 0.8603 |
     | **CatBoost** | **0.7713** | **0.8629** |
-
 ---
-
 ## 5. 분석 결과
 
 - **가설1 : 동일한 세션 내에 유입경로가 referral인 경우가 다른 유입경로보다 상품보기로의 전환율이 높아질 것이다**
-    - **주요 지표 및 시각화**
-        
-        ![image.png](attachment:027764e5-12f1-4a52-94b4-3828f77179e5:image.png)
-        
-    - **의미 해석**
-        
-        ![image.png](attachment:b8fdf28e-2291-4f40-8a0a-28bb56de59a3:image.png)
-        
-        **→** 동일한 세션 내에 유입경로가 referral인 경우가 다른 유입경로보다 상품보기로의 전환율이 높다는 의미
         
     - **가설 검증 결과**
         
@@ -345,17 +115,7 @@
         referral의 비중을 늘리면 전환수의 절대값을 효율적으로 늘릴 수 있다.
         
 - **가설2 : 체류시간이 길어질수록 상품보기의 전환율이 높아질 것이다**
-    - **주요 지표 및 시각화**
-        
-        ![image.png](attachment:df4e0be9-3c7f-4439-b861-22382722a6b8:image.png)
-        
-        ![image.png](attachment:15da4395-efe9-4073-8969-7be8921c51be:image.png)
-        
-    - **의미 해석**
-        
-        ![image.png](attachment:041594bd-e294-48bd-acde-729f99acdcd3:image.png)
-        
-        - 페이지에 진입하자마자 이탈한 세션(0초)이 35000건 이상으로, 전체의 17.5%를 차지하며, 7초에 50%가 존재하고, 이 후 체류 시간별, 세션이 고르게 퍼지게 되어 34초에서 75%가 존재한다
+
     - **가설 검증 결과**
         
         ![image.png](attachment:86c3a531-1d95-491d-b5df-dc2d723bd7c0:image.png)
@@ -367,13 +127,6 @@
         비전환 유저의 50%는 7초 안에 이탈
         
 - **가설3 : 장바구니에 상품이 담긴 시간을 기준으로, 24시간 이내 구매 전환율이 50%보다 높다**
-    - **주요 지표 및 시각화**
-        
-        ![image.png](attachment:b6eb19aa-5721-4074-8d87-3263dea8c234:image.png)
-        
-    - **의미 해석**
-        
-        전체 구매 전환 중 **93.56%가 장바구니 담기 후 24시간 이내에 발생**하여 전환의 대부분이 초기 단기 구간에 집중된다.
         
     - **가설 검증 결과**
         
@@ -384,11 +137,7 @@
         골든 타임 내 비전환 및 전환지연 유저의 구매 전환을 장려하는 액션아이템 마련
         
 - **가설4 : 서로 다른 날짜에 반복 구매한 재구매자는 하루 동안만 구매한 단일구매자보다 더 다양한 카테고리의 상품을 구매할 것이다.**
-    - **주요 지표 및 시각화**
-        
-        ![image.png](attachment:f4dbb106-67bc-4321-ae98-873a0db9e827:image.png)
-        
-    - **의미 해석**
+    
     - **가설 검증 결과**
         
         ![image.png](attachment:2ba969ca-6f2d-455c-8a46-df74532cc284:image.png)
@@ -399,13 +148,6 @@
         단일구매자에게 카테고리를 다양하게 노출시켜 재구매자로 전환시킬 수 있는 액션아이템 필요
         
 - **가설5 : 신규 1회 방문자가 다른 사용자 분류보다 탐색 전환율이 낮을 것이다**
-    - **주요 지표 및 시각화**
-        
-        ![download.png](attachment:ce0e586e-2bef-4f04-b659-6b4ade1c08ff:download.png)
-        
-    - **의미 해석**
-        
-        신규 1회 방문자의 탐색전환율은 3.93%로, 기존 유저(18.32%)나 신규 재방문자(22.81%)에 비해  낮은 초기 탐색 성향을 보인다.
         
     - **가설 검증 결과**
         
@@ -416,14 +158,7 @@
         처음 방문하는 사용자들이 많은 상품들 속에서 본인에게 잘 맞는 상품을 찾을 수 있게 해야 한다
         
 - **가설6: 세션당 상품 탐색 수가 많을수록 장바구니에 담길 확률이 높다**
-    - **주요 지표 및 시각화**
-        
-        ![download.png](attachment:bd2ac100-1674-4a5e-b025-f4a3b1dd0ded:download.png)
-        
-    - **의미 해석**
-        
-        탐색 활동이 증가할수록 장바구니 행동으로 이어질 가능성이 높아지는 구조임을 의미한다.
-        
+    
     - **가설 검증 결과**
         
         ![image.png](attachment:522901cc-1c6a-4f26-ab9d-37d16f863338:image.png)
@@ -434,11 +169,7 @@
         상품 상세 정보와 리뷰 관리같은 상품 탐색 부분에 신경을 쓰면 장바구니에 상품을 많이 담을 것이다.
         
 - **가설7 : 유저타입에 따라 장바구니 전환율이 다를 것이다**
-    - **주요 지표 및 시각화**
         
-        ![download.png](attachment:d99f8aa7-23e2-445c-a38b-b7649d8b52e4:download.png)
-        
-    - **의미 해석**
     - **가설 검증 결과**
         
         ![image.png](attachment:d3908c5b-19dc-4f08-afe8-0388a4092112:image.png)
@@ -447,10 +178,7 @@
     - **발견된 인사이트**
         
         **상품 탐색을 비롯, 장바구니 담기 전환 단계에서도 신규 1회 방문자를 위한 맞춤형 아이템을 만들어야 함**
-        
-
 ---
-
 ## 6. 결론 및 시사점
 
 > **각 단계별 맞춤형 전략을 통해 고객 여정지도의 우선순위를 확인하였고, 어떤 부분에 집중해야 하는지를 도출하였다.**
