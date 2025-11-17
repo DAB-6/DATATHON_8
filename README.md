@@ -37,6 +37,7 @@
     
     
     <img width="234" height="564" alt="Image" src="https://github.com/user-attachments/assets/769c7ce0-6e92-4caf-8113-14826affd487" />
+    
     - Google Merchandise Store는 2020년 12월을 기준으로 전 세계 검색엔진 시장에서 91.4%의 수준의 압도적인 브랜드 인지도를 가지고 있다.
     - 반면에, Google Merchandise Store의 존재를 인지하지 못하는 사용자가 다수인 것으로 나타났다.
     - 2020년의 전 세계 이커머스의 시장에서의 구매 전환율이 2.86%인 것에 반해, Google Merchandise Store의 전환율은 1.5% 수준으로 평균보다 낮다는 점을 확인할 수 있다.
