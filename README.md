@@ -175,7 +175,7 @@
         
     - **가설 검증 결과**
         
-        ![image.png](attachment:d3908c5b-19dc-4f08-afe8-0388a4092112:image.png)
+        <img width="684" height="483" alt="Image" src="https://github.com/user-attachments/assets/1a72297e-2a63-4a17-8e0e-b88242589d99" />
         
         - 사용자의 유형에 따라, 장바구니 담기의 차이가 유의한 결과를 가져온다
     - **발견된 인사이트**
@@ -196,11 +196,11 @@
 - 액션 아이템
     - **브랜드 생태계 내부 referral 네트워크 구축 전략**
         
-        ![image.png](attachment:fc05f1b2-73b7-4994-a37c-6da63e26d27c:image.png)
+        <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/37da62fd-9fd5-4e5e-b691-1b47aaf26272" />
         
         - Youtube
         
-        ![image.png](attachment:2a38a06b-07ae-43de-98a9-78d0cc32189a:image.png)
+        <img width="223" height="415" alt="Image" src="https://github.com/user-attachments/assets/39e7ed13-73b3-42ba-9c0e-f5eef8365f6e" />
         
         - Gmail
     
