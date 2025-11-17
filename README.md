@@ -1,6 +1,6 @@
 # DATATHON_8
 
-## [ 데이터 파일 설명 ] **
+## [ 데이터 파일 설명 ] ##
 - dataton_likelion_google_merchandise_store : 데이터 분석 코드 통합본(핵심)
 - dataton_likelion_combined : Kaggle Open data 통합본
 - dataton_likelion_combined(bigquery) : bigquery에서 추출한 데이터 통합본
