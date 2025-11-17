@@ -143,7 +143,7 @@
     
     - **가설 검증 결과**
         
-        <img width="684" height="484" alt="다운로드" src="https://github.com/user-attachments/assets/f71ad57e-a443-44ae-936d-37bf5b77a7ca" />
+       <img width="584" height="383" alt="image" src="https://github.com/user-attachments/assets/7c7c676f-bc38-4d16-a6e9-1002aa89a3bc" />
         
         - 재구매자는 단일구매자에 비해 더 다양한 상품 카테고리를 구매하는 경향이 있으며, 이는 통계적으로 유의미한 차이로 확인되었다.
     - **발견된 인사이트**
@@ -154,7 +154,7 @@
         
     - **가설 검증 결과**
         
-        <img width="684" height="484" alt="Image" src="https://github.com/user-attachments/assets/76b59f75-56cd-4fb9-a64f-0767e0d10cd2" />
+         <img width="684" height="484" alt="다운로드" src="https://github.com/user-attachments/assets/f71ad57e-a443-44ae-936d-37bf5b77a7ca" />
         
     - **발견된 인사이트**
         
@@ -282,4 +282,5 @@
 - **데이터 사전(Data Dictionary)**
 
 [**참고 문헌 및 출처**](https://www.notion.so/2a812a0090cd8042a754e464a09f778e?pvs=21)
+
 
