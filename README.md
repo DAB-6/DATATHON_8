@@ -54,7 +54,7 @@
 - **용어 정의**
     - **고객 여정지도**
     
-    ![image.png](attachment:d569a236-5ac6-4a1e-966f-dc38124879ef:image.png)
+    <img width="2314" height="1246" alt="Image" src="https://github.com/user-attachments/assets/38f31507-0139-4dbf-a5eb-8e36b94e5946" />
     
     - **변수 설명**
         - **Referral** 다른 웹사이트 링크를 통해 유입 방문
