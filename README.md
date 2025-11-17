@@ -107,7 +107,7 @@
         
     - **가설 검증 결과**
         
-        ![image.png](attachment:a022c28f-7cff-4da7-a765-e3a23a1b839d:image.png)
+        <img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/2f863af9-0b48-4933-8cfc-2e88d3008d83" />
         
         • Z-test 결과, referral 세션과 non-referral, cpc, organic 세션 간의 page_view -> view_item 전환율에는 통계적으로 유의미한 차이가 있다
         
@@ -119,7 +119,9 @@
 
     - **가설 검증 결과**
         
-        ![image.png](attachment:86c3a531-1d95-491d-b5df-dc2d723bd7c0:image.png)
+        !<img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/00872924-47e1-4dbd-9018-26f093fb0210" />
+
+         <img width="790" height="490" alt="Image" src="https://github.com/user-attachments/assets/05b825ce-423e-4347-a7f1-35134d594582" />
         
         - 상품보기를 한 세션은, 그렇지 않은 세션보다 평균적으로 훨씬 더 오래 머물렀으며, 이 차이는 통계적으로도 매우 유의하고, 실제로도 큰 효과 크기를 가진다
     - **발견된 인사이트**
@@ -131,7 +133,7 @@
         
     - **가설 검증 결과**
         
-        ![image.png](attachment:02aad02b-b2ca-4b94-b2ae-b4e35f668d9a:image.png)
+        <img width="490" height="489" alt="Image" src="https://github.com/user-attachments/assets/024b8f9c-edfe-4e1d-979e-366f69f1f057" />
         
     - **발견된 인사이트**
         
@@ -141,7 +143,7 @@
     
     - **가설 검증 결과**
         
-        ![image.png](attachment:2ba969ca-6f2d-455c-8a46-df74532cc284:image.png)
+        <img width="584" height="384" alt="Image" src="https://github.com/user-attachments/assets/7a329453-122a-471a-b4c7-27b0bb21f58e" />
         
         - 재구매자는 단일구매자에 비해 더 다양한 상품 카테고리를 구매하는 경향이 있으며, 이는 통계적으로 유의미한 차이로 확인되었다.
     - **발견된 인사이트**
@@ -152,7 +154,7 @@
         
     - **가설 검증 결과**
         
-        ![image.png](attachment:e1776a63-3e27-4973-a3fa-7d9553c478f5:image.png)
+        <img width="684" height="484" alt="Image" src="https://github.com/user-attachments/assets/76b59f75-56cd-4fb9-a64f-0767e0d10cd2" />
         
     - **발견된 인사이트**
         
@@ -162,7 +164,7 @@
     
     - **가설 검증 결과**
         
-        ![image.png](attachment:522901cc-1c6a-4f26-ab9d-37d16f863338:image.png)
+        <img width="584" height="384" alt="Image" src="https://github.com/user-attachments/assets/280c7c02-8aed-435a-93c9-4d1904b519b9" />
         
         - 분석결과, 상품 탐색 수가 증가할수록 장바구니 전환 확률이 통계적으로 유의하게 상승하였다
     - **발견된 인사이트**
