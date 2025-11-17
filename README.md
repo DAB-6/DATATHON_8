@@ -143,7 +143,7 @@
     
     - **가설 검증 결과**
         
-        <img width="584" height="384" alt="Image" src="https://github.com/user-attachments/assets/7a329453-122a-471a-b4c7-27b0bb21f58e" />
+        <img width="584" height="383" alt="Image" src="https://github.com/user-attachments/assets/0410fb5a-318e-4e07-a469-1ecd97cf06dc" />
         
         - 재구매자는 단일구매자에 비해 더 다양한 상품 카테고리를 구매하는 경향이 있으며, 이는 통계적으로 유의미한 차이로 확인되었다.
     - **발견된 인사이트**
